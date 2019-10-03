@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HotItemsAnalysis/HotItemsAnalysis.iml" filepath="$PROJECT_DIR$/HotItemsAnalysis/HotItemsAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginFailWithCep/LoginFailWithCep.iml" filepath="$PROJECT_DIR$/LoginFailWithCep/LoginFailWithCep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderTimeoutDetect/OrderTimeoutDetect.iml" filepath="$PROJECT_DIR$/OrderTimeoutDetect/OrderTimeoutDetect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserBehavior.iml" filepath="$PROJECT_DIR$/UserBehavior.iml" />
+    </modules>
+  </component>
+</project>
